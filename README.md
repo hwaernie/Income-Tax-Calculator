@@ -8,3 +8,5 @@ A user will provide information on the gross income and tax relief items, then t
 payable are calculated automatically. You do not need to consider the case of joint assessment where husband and wife
 file jointly. 
 
+Find out more about the income tax relief items here :
+http://www.hasil.gov.my/bt_goindex.php?bt_kump=5&bt_skum=1&bt_posi=3&bt_unit=1&bt_sequ=1
