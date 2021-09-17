@@ -7,3 +7,4 @@ A form with spreadsheets that calculates the Malaysian income tax for individual
 A user will provide information on the gross income and tax relief items, then the total chargeable income and the net tax
 payable are calculated automatically. You do not need to consider the case of joint assessment where husband and wife
 file jointly. 
+
